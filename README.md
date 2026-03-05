@@ -25,12 +25,15 @@ Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı za
 
 ---
 
-### 📊 GitHub Verilerim
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=transparent&hide_border=true&title_color=007bff)
+### 📊 GitHub İstatistiklerim
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=buefy&hide_border=true" alt="Sefik Stats" width="400" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SefikMersinli&layout=compact&theme=transparent&hide_border=true&title_color=007bff)
-
----
+### 🛠️ En Çok Kullandığım Diller
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SefikMersinli&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" width="300" />
+</p>
 
 ### 🏆 Katkı Takvimi
 [![Şefik's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=SefikMersinli&theme=transparent&hide_border=true&stroke=007bff)](https://git.io/streak-stats)
