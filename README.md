@@ -25,15 +25,25 @@ Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı za
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=buefy&hide_border=true" alt="Sefik Stats" width="400" />
-</p>
 
-### 🛠️ En Çok Kullandığım Diller
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SefikMersinli&layout=compact&theme=buefy&hide_border=true" alt="Top Langs" width="300" />
-</p>
+
+### 📊 GitHub İstatistiklerim
+- 🏆 **Toplam Katkı:** 87+ (Ocak 2025'ten beri)
+- ⚡ **En Uzun Seri:** 3 Gün
+- 💻 **Favori Diller:** Python, HTML, C#
+
+---
+
+### 🛠️ Teknolojiler & Yetkinlikler
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🏆 Katkı Takvimi (Çalışan Kısım)
+[![Şefik's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=SefikMersinli&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 🏆 Katkı Takvimi
 [![Şefik's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=SefikMersinli&theme=transparent&hide_border=true&stroke=007bff)](https://git.io/streak-stats)
