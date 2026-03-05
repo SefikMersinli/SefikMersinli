@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1508614589041-895b88991e3e?q=80&w=1200&auto=format&fit=crop" alt="Sefik Mersinli Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1662194630985-780b62e49c71?q=80&w=1200&auto=format&fit=crop" alt="DJI Mini 3 Banner" width="80%" />
 </p>
 
 <h1 align="center">Şefik Mersinli | Developer & Drone Pilot</h1>
