@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1662194630985-780b62e49c71?q=80&w=1200&auto=format&fit=crop" alt="DJI Mini 3 Banner" width="80%" />
+  <img src="[https://images.unsplash.com/photo-1662194630985-780b62e49c71?q=80&w=1200&auto=format&fit=crop](https://drone.net.tr/blog/dji-mini-4-pro-vs-mini-3-pro-vs-mini-3-1516.html?srsltid=AfmBOoqMz86hxgzSEIQV9Th8bEEPr5DU9Q3duwi4rB3bxOYZHt8qNcRe)" alt="DJI Mini 3 Banner" width="80%" />
 </p>
 
 <h1 align="center">Şefik Mersinli | Developer & Drone Pilot</h1>
