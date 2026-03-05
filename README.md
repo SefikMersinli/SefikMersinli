@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co/L519VwX/sefik-mersinli-banner.png" alt="Sefik Mersinli Banner" width="100%" />
+</p>
+
+<br>
 # Selamlar, ben Şefik! 👋
 
 ### 💻 Bilgisayar Programcılığı Öğrencisi | Gümüşhane Üniversitesi
