@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1662194630985-780b62e49c71?auto=format&fit=crop&q=80&w=1000" alt="DJI Mini 3" width="75%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Şefik%20Mersinli&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Drone%20Pilot&descAlignY=62&descSize=25" />
 </p>
 <h1 align="center">Şefik Mersinli | Developer & Drone Pilot</h1>
 
