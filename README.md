@@ -1,19 +1,38 @@
-# Selam, ben Şefik! 👋
+# Selamlar, ben Şefik! 👋
 
 ### 💻 Bilgisayar Programcılığı Öğrencisi | Gümüşhane Üniversitesi
-Trabzon/Akçaabatlıyım. Yazılım geliştirme ve drone teknolojileri üzerine kendimi geliştiriyorum.
+Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı zamanda gökyüzünde drone uçurmayı ve cinematic çekimler yapmayı seviyorum.
 
-- 🔭 Şu an üzerinde çalıştığım proje: **Akçaabat Kargo Takip Sistemi**
-- 🌱 Öğrendiğim teknolojiler: **Python, Django, C#**
-- 🚁 Hobilerim: **Drone Pilotluğu (İHA-1), Video Kurgu (DaVinci Resolve)**
-- 💬 Benimle iletişime geçmek için: [https://www.linkedin.com/in/%C5%9Fefik-mersinli-b57186368/]
+---
+
+### 🚀 Hakkımda Kısa Bilgiler
+- 🎓 **Gümüşhane Üniversitesi** Bilgisayar Programcılığı 2. sınıf öğrencisiyim.
+- 🔭 Şu an üzerinde çalıştığım ana proje: **Akçaabat Kargo Takip Sistemi (Django)**.
+- 🌱 **Python, Django ve C#** üzerine yoğunlaşmış durumdayım.
+- 🚁 Sertifikalı bir **İHA-0 ve İHA-1** drone pilotuyum.
+- 🎬 **DaVinci Resolve** ile drone çekimlerimi profesyonelce kurguluyorum.
+- ⚽ Koyu bir **Trabzonspor** taraftarıyım! 🔴🔵
+
+---
 
 ### 🛠️ Teknolojiler & Araçlar
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+| Kategori | Araçlar |
+| :--- | :--- |
+| **Diller** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) |
+| **Web Framework** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Versiyon Kontrol** | ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Kreatif & Diğer** | ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=flat-square&logo=davinciresolve&logoColor=white) 🚁 Drone Programming |
 
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Sefik's GitHub stats](https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=radical)
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SefikMersinli&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Bana Ulaşın
+- **LinkedIn:** [linkedin.com/in/SefikMersinli](https://linkedin.com/in/KENDI_LINKINI_BURAYA_YAPISTIR) 
+- **Instagram:** [instagram.com/SefikMersinli](https://instagram.com/KENDI_LINKINI_BURAYA_YAPISTIR)
