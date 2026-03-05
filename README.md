@@ -26,11 +26,9 @@ Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı za
 ---
 
 ### 📊 GitHub İstatistiklerim
-![Şefik's Stats](https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=buefy&hide_border=true)
+![Şefik's Stats](https://github-readme-stats.vercel.app/api?username=SefikMersinli&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SefikMersinli&layout=compact&theme=buefy&hide_border=true)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SefikMersinli&layout=compact&theme=tokyonight)
 
 ### 📫 Bana Ulaşın
 - **LinkedIn:** [linkedin.com/in/SefikMersinli](https://www.linkedin.com/in/%C5%9Fefik-mersinli-b57186368/) 
