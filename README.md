@@ -6,7 +6,7 @@ Trabzon/Akçaabatlıyım. Yazılım geliştirme ve drone teknolojileri üzerine 
 - 🔭 Şu an üzerinde çalıştığım proje: **Akçaabat Kargo Takip Sistemi**
 - 🌱 Öğrendiğim teknolojiler: **Python, Django, C#**
 - 🚁 Hobilerim: **Drone Pilotluğu (İHA-1), Video Kurgu (DaVinci Resolve)**
-- 💬 Benimle iletişime geçmek için: [LinkedIn Profil Linkin]
+- 💬 Benimle iletişime geçmek için: [https://www.linkedin.com/in/%C5%9Fefik-mersinli-b57186368/]
 
 ### 🛠️ Teknolojiler & Araçlar
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
