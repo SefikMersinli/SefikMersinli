@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Şefik%20Mersinli&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20%26%20Drone%20Pilot&descAlignY=62&descSize=25" />
+  <img src="https://images.unsplash.com/photo-1620601700676-e970a2f7f902?auto=format&fit=crop&q=80&w=1000" alt="DJI Mini 3" width="85%" />
 </p>
+
 <h1 align="center">Şefik Mersinli | Developer & Drone Pilot</h1>
 
 <p align="center">
@@ -9,7 +10,6 @@
 
 <br>
 
-<br>
 # Selamlar, ben Şefik! 👋
 
 ### 💻 Bilgisayar Programcılığı Öğrencisi | Gümüşhane Üniversitesi
@@ -37,8 +37,6 @@ Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı za
 
 ---
 
-
-
 ### 📊 GitHub İstatistiklerim
 - 🏆 **Toplam Katkı:** 87+ (Ocak 2025'ten beri)
 - ⚡ **En Uzun Seri:** 3 Gün
@@ -46,16 +44,10 @@ Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı za
 
 ---
 
-### 🛠️ Teknolojiler & Yetkinlikler
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ### 🏆 Katkı Takvimi
 [![Şefik's GitHub Activity](https://github-readme-streak-stats.herokuapp.com/?user=SefikMersinli&theme=transparent&hide_border=true&stroke=007bff)](https://git.io/streak-stats)
+
+---
 
 ### 📫 Bana Ulaşın
 - **LinkedIn:** [linkedin.com/in/SefikMersinli](https://www.linkedin.com/in/%C5%9Fefik-mersinli-b57186368/) 
