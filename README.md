@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/L519VwX/sefik-mersinli-banner.png" alt="Sefik Mersinli Banner" width="100%" />
+  <img src="https://drone.net.tr/blog/dji-mini-4-pro-vs-mini-3-pro-vs-mini-3-1516.html?srsltid=AfmBOoreV1Cv9edeorA2dmP9pKfkEclmR3d6lydPnQbu2IKPX39jCK31" alt="Sefik Mersinli Banner" width="100%" />
 </p>
 
 <br>
