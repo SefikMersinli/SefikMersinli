@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://drone.net.tr/blog/dji-mini-4-pro-vs-mini-3-pro-vs-mini-3-1516.html?srsltid=AfmBOoreV1Cv9edeorA2dmP9pKfkEclmR3d6lydPnQbu2IKPX39jCK31" alt="Sefik Mersinli Banner" width="100%" />
+  <img src="https://images.unsplash.com/photo-1508614589041-895b88991e3e?q=80&w=1200&auto=format&fit=crop" alt="Sefik Mersinli Banner" width="100%" />
 </p>
+
+<h1 align="center">Şefik Mersinli | Developer & Drone Pilot</h1>
+
+<p align="center">
+  Gümüşhane Üniversitesi Bilgisayar Programcılığı Öğrencisi | İHA-1 Pilotu
+</p>
+
+<br>
 
 <br>
 # Selamlar, ben Şefik! 👋
