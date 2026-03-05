@@ -34,5 +34,5 @@ Trabzon/Akçaabatlıyım. Yazılım dünyasında kendimi geliştirirken aynı za
 ---
 
 ### 📫 Bana Ulaşın
-- **LinkedIn:** [linkedin.com/in/SefikMersinli](https://linkedin.com/in/KENDI_LINKINI_BURAYA_YAPISTIR) 
-- **Instagram:** [instagram.com/SefikMersinli](https://instagram.com/KENDI_LINKINI_BURAYA_YAPISTIR)
+- **LinkedIn:** [linkedin.com/in/SefikMersinli](https://www.linkedin.com/in/%C5%9Fefik-mersinli-b57186368/) 
+- **Instagram:** [instagram.com/SefikMersinli](https://www.instagram.com/sefik.mersinli61/)
